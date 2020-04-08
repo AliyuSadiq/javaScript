@@ -5,14 +5,6 @@ const data = [
     {principal:2000, time:3}
 ]
 
-// let interestData = []
-
-
-
-
-// console.log(data)
-
-// let run = data.length
 
 
 function interestCalculator(set){
